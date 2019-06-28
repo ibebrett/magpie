@@ -1,0 +1,24 @@
+DIGEST a7eef009a4b8d1cea5d9cd2bba139ffb
+Fhello
+ind 10:13 <> bool
+constr 29:32 <> true
+constr 38:42 <> false
+R33:33 hello <> bool ind
+R43:43 hello <> bool ind
+def 58:60 <> opp
+R66:69 hello <> bool ind
+R73:76 hello <> bool ind
+R89:89 hello <> t var
+R101:104 hello <> true constr
+R109:113 hello <> false constr
+R119:123 hello <> false constr
+R128:131 hello <> true constr
+R151:153 hello <> opp def
+R155:159 hello <> false constr
+R172:174 hello <> opp def
+R176:179 hello <> true constr
+def 192:199 <> test_opp
+R212:214 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R204:206 hello <> opp def
+R208:211 hello <> true constr
+R215:219 hello <> false constr
