@@ -14,5 +14,6 @@ Compute (opp false).
 Compute (opp true).
 
 Example test_opp:
-  opp true = false.
+  opp true = true.
+
 Proof. simpl. reflexivity. Qed.
